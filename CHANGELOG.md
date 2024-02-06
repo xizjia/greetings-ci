@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/xizjia/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
+
+
+### Features
+
+* add testing to pipeline ([f888e58](https://github.com/xizjia/greetings-ci/commit/f888e586e4847b2e32793982fa38dc80616b9de6))
+
+
+
 # [0.3.0](https://github.com/xizjia/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
 
 
