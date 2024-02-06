@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-06)
+# [0.2.0](https://github.com/xizjia/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([986874c](https://github.com/xizjia/greetings-ci/commit/986874c381d67f4ae84dd93b03d1fd43867ad7bd))
+
+
+
+# [0.1.0](https://github.com/xizjia/greetings-ci/compare/5a08d84b88cb7370b35020322247ddbd4e9b5ee2...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
