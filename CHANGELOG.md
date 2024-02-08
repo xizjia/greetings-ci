@@ -1,3 +1,12 @@
+## [0.6.1](https://github.com/xizjia/greetings-ci/compare/v0.6.0...v0.6.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* update to greeting for blue ([1864db8](https://github.com/xizjia/greetings-ci/commit/1864db86cd8ecd372471d5d264ab2ec1cdb6a303))
+
+
+
 # [0.6.0](https://github.com/xizjia/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-08)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * version artifact ([c410400](https://github.com/xizjia/greetings-ci/commit/c410400aaf1f6e1dd204234e947244554d9b1214))
-
-
-
-# [0.2.0](https://github.com/xizjia/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
-
-
-### Features
-
-* upload artifact ([986874c](https://github.com/xizjia/greetings-ci/commit/986874c381d67f4ae84dd93b03d1fd43867ad7bd))
 
 
 
